@@ -1,0 +1,27 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project (a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Constantuni/RESTfulAPI-simpleshop.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Constantuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Constantuni/RESTfulAPI-simpleshop/issues"
+  },
+  "homepage": "https://github.com/Constantuni/RESTfulAPI-simpleshop#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
